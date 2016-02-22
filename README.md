@@ -17,7 +17,7 @@
 ### 使用
 
 * 获取连接
-
+```java
     package xxx;
     
     import cn.cuilan.utils.JdbcUtils;
@@ -28,9 +28,10 @@
         	......
         }
     }
+```
 
 * 使用 ORM 对象映射查询
-
+```java
 	package xxx;
 	import java.lang.reflect.InvocationTargetException;
 	import java.sql.Connection;
@@ -45,7 +46,7 @@
 			System.out.println(user.toString());
 		}
 	}
-	
+```
 
 	
 	
