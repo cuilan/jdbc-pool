@@ -2,7 +2,7 @@
 
 ### Java 数据库连接池
 
-* 依赖于 `mysql-connetor-java-5.*.*-bin.jar`
+* 依赖于 `mysql-connetor-java-{version}-bin.jar`
 * 必须在 src 目录下创建一个 `jdbc.properties` 的配置文件
 
 ### 配置文件包含：
