@@ -16,7 +16,7 @@
         <maven.compiler.plugin.version>3.3</maven.compiler.plugin.version>
         <java.version>1.8</java.version>
 
-        <mysql-jdbc.version>8.0.16</mysql-jdbc.version>
+        <mysql-jdbc.version>8.0.28</mysql-jdbc.version>
     </properties>
 
     <dependencyManagement>
